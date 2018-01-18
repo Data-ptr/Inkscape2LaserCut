@@ -28,7 +28,7 @@ I'm also running it on Linux :)
 ### Grid (Personal Preference)
 
 * While still in "Document Properties" go to the "Grids" tab
-  * Under the "Creation" header drop down to "Rectangular Grid" (this may already be selected by default)
+  * Under the "Creation" heading, drop-down to "Rectangular Grid" (this may already be selected by default)
   * click the "New" button next to that.
   * Under the "Defined Grids" heading change "Grid Units" to mm
   * Change "Spacing X" and "Spacing Y" to 0.5
@@ -50,7 +50,7 @@ When you start making objects:
   * Goto the "RGB" tab if you are not already
   * Set the color to "255" in RED (typically used for "cut" mode)
   * Alpha to full
-    * Or RGBA: ff0000ff for the above two steps
+    * Or RGBA: `#ff0000ff` for the above two steps
   * "Blur" to 0
   * "Opacity" to 100%
 * Under the "Stroke style" tab set:
